@@ -1,0 +1,46 @@
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\obj\Debug\WebApoMant.csproj.CoreCompileInputs.cache
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\WebApoMant.dll.config
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\WebApoMant.dll
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\WebApoMant.pdb
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\Newtonsoft.Json.dll
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\System.Net.Http.Formatting.dll
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\System.Web.Cors.dll
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\System.Web.Http.Cors.dll
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\System.Web.Http.dll
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\System.Web.Http.WebHost.dll
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\System.Web.Http.Cors.xml
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\Newtonsoft.Json.xml
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\System.Net.Http.Formatting.xml
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\System.Web.Http.xml
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\System.Web.Http.WebHost.xml
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\es\System.Web.Http.resources.dll
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\obj\Debug\WebApoMant.dll
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\obj\Debug\WebApoMant.pdb
+C:\Users\prvsegccar0\source\repos\WebApoMant\WebApoMant\obj\Debug\WebApoMant.csprojResolveAssemblyReference.cache
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\WebApoMant.dll.config
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\WebApoMant.dll
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\WebApoMant.pdb
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\Newtonsoft.Json.dll
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\System.Net.Http.Formatting.dll
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\System.Web.Cors.dll
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\System.Web.Http.Cors.dll
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\System.Web.Http.dll
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\System.Web.Http.WebHost.dll
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\System.Web.Http.Cors.xml
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\Newtonsoft.Json.xml
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\System.Net.Http.Formatting.xml
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\System.Web.Http.xml
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\System.Web.Http.WebHost.xml
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\es\System.Web.Http.resources.dll
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\obj\Debug\WebApoMant.csproj.CoreCompileInputs.cache
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\obj\Debug\WebApoMant.dll
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\obj\Debug\WebApoMant.pdb
+C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\obj\Debug\WebApoMant.csprojResolveAssemblyReference.cache
