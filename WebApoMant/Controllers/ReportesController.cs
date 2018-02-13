@@ -13,42 +13,29 @@ using WebApoMant.BackEnd;
 
 namespace WebApoMant.Controllers
 {
-
-    //[EnableCors(origins: "http://localhost:32883", headers: "*", methods: "*", exposedHeaders: "X-My-Header")]
     [RoutePrefix("api/reportes")]
-    [EnableCors("*", "*", "*")]
     public class ReportesController : ApiController
     {
-        [Route("listarReporte")]
-        [HttpPost]
+        [Route("listarReporte"), HttpPost]
         public ClientResponse listarReporte(JObject objData)
-        {           
+        {
+            ClientResponse response;
             try
-            {                
-                //List<ItemDetails> lstItemDetails = new List<ItemDetails>();                
-                //dynamic jsonData = objData;                
-                //JObject reportesJson = jsonData.reportes;
-                ////JArray itemDetailsJson = jsonData.itemDetails;
-                //BE_Reporte reporte = reportesJson.ToObject<BE_Reporte>();
-                BE_Reporte reportes = objData["reportes"].ToObject<BE_Reporte>();
-                Pagination paginacion = objData["paginacion"].ToObject<Pagination>();
-                FilterReporte objeto = new FilterReporte() { reporte = reportes, paginacion = paginacion };
-                return new BLReporte().BL_listarReporte(objeto);
-                //foreach (var item in itemDetailsJson)
-                //{
-                //    lstItemDetails.Add(item.ToObject<ItemDetails>());
-                //}               
-            }
-            catch (Exception e)
             {
-
-                throw e;
+                BE_Reporte reporte = objData["reportes"].ToObject<BE_Reporte>();
+                Pagination pagination = objData["paginacion"].ToObject<Pagination>();
+                FilterReporte objeto = new FilterReporte
+                {
+                    reporte = reporte,
+                    paginacion = pagination
+                };
+                response = new BLReporte().BL_listarReporte(objeto);
             }
-
-
-            
-        
-         
+            catch (Exception exception)
+            {
+                throw exception;
+            }
+            return response;
         }
     }
     public class Order

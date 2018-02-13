@@ -44,3 +44,25 @@ C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\obj\De
 C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\obj\Debug\WebApoMant.dll
 C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\obj\Debug\WebApoMant.pdb
 C:\Users\MIKE\Documents\Visual Studio 2017\Projects\WebApoMant\WebApoMant\obj\Debug\WebApoMant.csprojResolveAssemblyReference.cache
+C:\WebApi-MantAngular5\WebApoMant\obj\Debug\WebApoMant.csproj.CoreCompileInputs.cache
+C:\WebApi-MantAngular5\WebApoMant\obj\Debug\WebApoMant.dll
+C:\WebApi-MantAngular5\WebApoMant\obj\Debug\WebApoMant.pdb
+C:\WebApi-MantAngular5\WebApoMant\bin\WebApoMant.dll.config
+C:\WebApi-MantAngular5\WebApoMant\bin\WebApoMant.dll
+C:\WebApi-MantAngular5\WebApoMant\bin\WebApoMant.pdb
+C:\WebApi-MantAngular5\WebApoMant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\WebApi-MantAngular5\WebApoMant\bin\Newtonsoft.Json.dll
+C:\WebApi-MantAngular5\WebApoMant\bin\System.Net.Http.Formatting.dll
+C:\WebApi-MantAngular5\WebApoMant\bin\System.Web.Cors.dll
+C:\WebApi-MantAngular5\WebApoMant\bin\System.Web.Http.Cors.dll
+C:\WebApi-MantAngular5\WebApoMant\bin\System.Web.Http.dll
+C:\WebApi-MantAngular5\WebApoMant\bin\System.Web.Http.WebHost.dll
+C:\WebApi-MantAngular5\WebApoMant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\WebApi-MantAngular5\WebApoMant\bin\System.Web.Http.Cors.xml
+C:\WebApi-MantAngular5\WebApoMant\bin\Newtonsoft.Json.xml
+C:\WebApi-MantAngular5\WebApoMant\bin\System.Net.Http.Formatting.xml
+C:\WebApi-MantAngular5\WebApoMant\bin\System.Web.Http.xml
+C:\WebApi-MantAngular5\WebApoMant\bin\System.Web.Http.WebHost.xml
+C:\WebApi-MantAngular5\WebApoMant\bin\es\System.Net.Http.Formatting.resources.dll
+C:\WebApi-MantAngular5\WebApoMant\bin\es\System.Web.Http.resources.dll
+C:\WebApi-MantAngular5\WebApoMant\bin\es\System.Web.Http.WebHost.resources.dll
